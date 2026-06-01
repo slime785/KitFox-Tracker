@@ -11,3 +11,6 @@ Expanding my knowledge on cloud computing.
 
 ## Pastries
 Crema cafe
+
+## Preferred communication style
+Discord
