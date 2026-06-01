@@ -14,3 +14,6 @@ Crema cafe
 
 ## Preferred communication style
 Discord
+
+## Availability
+Wednesday to Friday
