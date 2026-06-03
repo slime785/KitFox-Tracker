@@ -11,3 +11,6 @@ I need to grow a lot more in my backend coding.
 
 ## Pastries
 La Vallarta
+
+## Prefered communication style 
+Discord
