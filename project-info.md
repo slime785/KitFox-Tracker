@@ -1,7 +1,7 @@
 # Project Info
 
 ## Project Name
-Kit Fox Tracker
+Temporary Project Name
 
 ## Project Description
 Temporary description.
