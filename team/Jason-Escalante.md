@@ -14,3 +14,7 @@ La Vallarta
 
 ## Prefered communication style 
 Discord
+
+## Availability
+
+Tuesday - Friday
